@@ -1,0 +1,29 @@
+.swiper-pagination-bullets {
+  bottom: 5px !important;
+}
+
+.swiper-wrapper {
+  padding-bottom: 25px;
+}
+
+.swiper-slide {
+  text-align: left;
+}
+
+ion-item {
+
+}
+
+ion-list {
+  width: 100%;
+  margin: 0 !important;
+}
+
+ion-card {
+  width: 90%;
+  margin: 10px auto;
+}
+
+.wind {
+  transform: rotateZ(var(--wind-dir, 0));
+}
