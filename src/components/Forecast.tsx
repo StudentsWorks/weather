@@ -8,9 +8,11 @@ import './Forecast.css';
 const icons: any = {
   cloudy: cloudy,
   partlycloudy_day: cloudy,
+  fog: cloudy,
   rain: rainy,
   snow: snow,
   clearsky_day: sunny,
+  fair_day: sunny,
   heavyrainandthunder: thunderstorm,
   lightsleet: rainy,
   lightrain: rainy,
