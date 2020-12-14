@@ -11,6 +11,7 @@ const icons: any = {
   fog: cloudy,
   rain: rainy,
   snow: snow,
+  lightsnow: snow,
   clearsky_day: sunny,
   fair_day: sunny,
   heavyrainandthunder: thunderstorm,
